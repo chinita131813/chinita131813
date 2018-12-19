@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Blog</title>
+    </head>
+    <style>
+        body {
+            background-color:rgb(212, 233, 255);
+            font-family:monospace;
+            color:rgb(179, 79, 43);
+            text-align:center;
+        }
+        h2 {
+            color:rgb(201, 62, 201);
+        }
+         h3 {
+             color:rgb(0, 0, 0);
+         }
+         h1 {
+             color:rgb(255, 255, 255);
+         }
+        
+    </style>
+    <body>
+        
+        
+        
+        
+        <h1>Lizbeth's Coding Blog!!</h1>
+
+        <h4> what to read about</h4>
+        <p>
+            <li><a href="#html">HTML</a></li>
+            <li><a href="#css">CSS</a></li>
+        </p>
+        
+        <h2><strong>MY CODING JOURNEY</strong></h2>
+        <h6>Posted 17 December 2018</h6>
+        
+        <h3 id="html">HTML</h3>
+        <p><strong>WHAT I'VE LEARNED</strong><br>
+        I am so <strong>eager </strong>and <strong>excited</strong> to use what i have learned so far and apply it to projects.On language of coding is HTML. It is basically writting out what you want to be displayed on the web page. This is where all the basic things go on, such as titles, heading, body, refrences, URL links, etc. </p>
+        
+        <h3 id="css">CSS</h3>
+        <p><strong>WHAT I'VE LEARNED</strong><br>
+        Just like HTML, CSS is also another language for coding. It is different from HTML though. CSS is more about how the web page will be laid out. This is where the font color, size, weight, style will be adjusted. Adjustments of text varies from the whole web-page or just simply one word.<br> There are many shortcuts in CSS. Some including categorizing by "class" or "id". Another way of simplifying the web page is by combing items, such as font. Instead of listing out every font; Style, color, decoration, size, they can be grouped inside one parenthasis.<br> (excuse my grammer I know its very poor, this is one reason I have never blogged before!)</p>
+        
+        <h6>ALSO I REALLY WANTED TO DEMONSTRATE WHAT I KNOW SO I ADDED MY FAVORITE SONG AT THE MOMENT<br>
+      <a href="https://www.youtube.com/watch?v=MmZexg8sxyk" electric eel>electric eel</a></h6>
+        
+        
+        <p><em>Thank You</em> for reading if there is any way to leave me feed back please do!!I know I am not perfect, but  I love to learn , espically from my mistakes(as ironic as that sounds)</p>
+        
+        
+    </body>
+</html>
